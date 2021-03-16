@@ -43,3 +43,9 @@
 | [Sequence-to-Sequence Modeling with nn.Transformer and TorchText]( https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/dca13261bbb4e9809d1a3aa521d22dd7/transformer_tutorial.ipynb)  | This is a tutorial on how to train a sequence-to-sequence model.  | `PyTorch`
 | [NLP From Scratch: Classifying Names with a Character-Level RNN]( https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/977c14818c75427641ccb85ad21ed6dc/char_rnn_classification_tutorial.ipynb)  | We will be building and training a basic character-level RNN to classify words.   | `PyTorch`
 | [NLP From Scratch: Generating Names with a Character-Level RNN]( https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/a35c00bb5afae3962e1e7869c66872fa/char_rnn_generation_tutorial.ipynb)  |we used a RNN to classify names into their language of origin.  | `PyTorch`
+
+<div align="right">
+    <b><a href="#framework">↥ Back To Top</a></b>
+</div>
+
+***
