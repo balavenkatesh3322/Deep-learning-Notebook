@@ -49,3 +49,10 @@
 </div>
 
 ***
+## Contributions
+Your contributions are always welcome!!
+Please have a look at `contributing.md`
+
+## License
+
+[MIT License](LICENSE)
